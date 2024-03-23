@@ -3,28 +3,11 @@
 
 A curated list of awesome niche job boards.
 
-Table of Contents
-Artificial Intelligence (AI)
-Big Data
-Blockchain
-Design
-DevOps
-eCommerce
-Finance
-Gaming
-Growth Hacking
-InfoSec
-Programming
-Remote
-Tech
-Writing
-Various
-Artificial Intelligence (AI)
-AI Jobs Dev - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
-AI Jobs – Jobs in Artificial Intelligence (AI)
-ai-jobs.net - Jobs in AI and Big Data
-AI/ML Jobs - Jobs at Top AI Companies and Startups, Updated Daily!
-AI Jobs Board - Jobs in AI/ML
+
+
+# #  Artificial Intelligence (AI)
+- [proaijobs.com](https://proaijobs.com) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them. Join the best ai startups
+
 Big Data
 DataJobs.com
 Data Yoshi - Jobs in Data Science, Analytics, AI and Machine Learning
